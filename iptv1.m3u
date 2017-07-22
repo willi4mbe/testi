@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="http://premium-ott.com:8000/logo/france2.png" group-title="CANALFHD - OTT",|FR| FRANCE 2 FHD
+http://premium-ott.com:8000/live/V1ZJZ0wAfh/PK26rCiqAl/9286.ts
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://premium-ott.com:8000/logo/france2.png" group-title="CANALSAT - OTT",|FR| FRANCE 2 HD
+http://premium-ott.com:8000/live/V1ZJZ0wAfh/PK26rCiqAl/7140.ts
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="|FR| FRANCE 2" tvg-logo="http://premium-ott.com:8000/logo/france2.png" group-title="CANALSAT - OTT",|FR| FRANCE 2
+http://premium-ott.com:8000/live/V1ZJZ0wAfh/PK26rCiqAl/9540.ts
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="http://premium-ott.com:8000/logo/france3.png" group-title="CANALFHD - OTT",|FR| FRANCE 3 FHD
+http://premium-ott.com:8000/live/V1ZJZ0wAfh/PK26rCiqAl/9287.ts
